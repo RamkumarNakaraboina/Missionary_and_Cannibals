@@ -1,8 +1,8 @@
 boat_side = 'Right'
 missionaries_on_right = 3
-cannibals_on_right = 3 
+cannibals_on_right = 3
 missionaries_on_left = 0
-cannibals_on_left = 0 
+cannibals_on_left = 0
 
 print('M=',missionaries_on_left, 'C=',cannibals_on_left, '|-----B|', 'M=',missionaries_on_right,'C=',cannibals_on_right)
 
